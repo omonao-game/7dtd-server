@@ -1,0 +1,2 @@
+ServerName,server name
+ServerDescription,server_description
